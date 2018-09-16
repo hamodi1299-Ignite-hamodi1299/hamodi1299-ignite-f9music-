@@ -424,7 +424,7 @@ client.on('message', async msg => { // eslint disable line
             ]
           }
         })
-        } else if(msg.content.startsWith(`${PREFIX}help`)) {
+        } else if(msg.content.startsWith(`*/-/*-6346346443636weat*-*//*//y5y5yyertyfgdfgrgfgfgfgfghfhgerheh436fgfgfgfgfgergretyrtyrtyrhelp`)) {
         console.log(`${msg.author.tag} has been used the ${PREFIX}help command in ${msg.guild.name}`);
 
         msg.channel.send('Please check your direct messages :inbox_tray:')
